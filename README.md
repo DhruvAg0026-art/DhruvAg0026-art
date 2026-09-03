@@ -43,10 +43,6 @@ Second-year CSE student passionate about building reliable, scalable backend sys
 
 ### 📊 GitHub Stats
 
-![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=DhruvAg0026-art&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvAg0026-art&layout=compact&theme=radical)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=DhruvAg0026-art&theme=radical)
 
 ---

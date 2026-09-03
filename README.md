@@ -40,45 +40,6 @@ Second-year CSE student passionate about building reliable, scalable backend sys
 
 ---
 
-### 🚀 Featured Projects
-
-#### 🛡️ S3 Security Monitor
-Serverless automation system that monitors S3 bucket configuration changes and ensures compliance.
-- Built with AWS Lambda + Boto3 to detect public access violations
-- Notifications via EventBridge triggers
-- Reduced manual audit effort by 70% and misconfiguration risk by 60%
-
-`AWS Lambda` `Python (Boto3)` `EventBridge`
-
-#### 🦺 Safety Equipment Detection Model
-Computer vision model to detect safety equipment (helmets, vests) in images.
-- Trained using YOLOv8, validated with OpenCV
-- Achieved 85%+ detection accuracy
-
-`YOLOv8` `Python` `OpenCV`
-
-#### 🔗 URL Shortener with Analytics Dashboard
-Full-stack URL shortener with custom short codes and expiration support.
-- AWS DynamoDB backend with TTL-based auto-expiry
-- Real-time analytics dashboard tracking clicks, referrers & geo data
-
-`Node.js` `Express` `AWS DynamoDB` `REST API`
-
-#### 💰 Automated Expense Tracker CLI
-Command-line expense tracking tool with category-wise logging, filtering & summaries.
-- Matplotlib-powered monthly & category-wise spending charts
-- Packaged as a Click CLI with persistent CSV storage
-
-`Python` `CSV` `Matplotlib` `Click`
-
-#### 🔔 Serverless Chat Notification System
-Decoupled notification pipeline using AWS SNS fan-out to multiple SQS queues.
-- Lambda consumers for email & push notifications with retry logic and DLQs
-- Reduced notification delivery latency by ~40%
-
-`AWS Lambda` `SNS` `SQS` `Python`
-
----
 
 ### 📊 GitHub Stats
 
